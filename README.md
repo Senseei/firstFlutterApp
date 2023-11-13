@@ -1,7 +1,7 @@
 # favorites
 
 This is my first project using flutter.
-All the necessaries resources to start learning flutter you can find below
+All the resources needed to start learning flutter you can find below
 
 ## Getting Started
 
